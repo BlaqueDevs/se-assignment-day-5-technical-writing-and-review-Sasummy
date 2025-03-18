@@ -51,8 +51,7 @@ A quick start or installation guide (if applicable).
 
 ## 12. How can you succinctly convey the purpose and key features of a product?
 Use a one-liner summary followed by a bullet-point list of key features. Example:
-
-"X-Tool: A fast and secure file-sharing app."
+X-Tool: A fast and secure file-sharing app.
 
 Send files instantly over an encrypted connection.
 Works across all devices.
